@@ -1,2 +1,3 @@
-# CryptoZombies
- Repository for the CryptoZombies Solidity Tutorial - https://cryptozombies.io/
+# Crypto Zombies
+
+Repository for the CryptoZombies NFT Tutorial - https://cryptozombies.io/
